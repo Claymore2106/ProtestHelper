@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtestHelperBackend", "ProtestHelperBackend.csproj", "{8D8AFB29-27FA-45BE-8191-25D2222E3C17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtestHelperDevTestClient", "ProtestHelperDevTestClient\ProtestHelperDevTestClient.csproj", "{7E517E0C-6B2F-4FAB-A8B5-BCC69D3BF0EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D8AFB29-27FA-45BE-8191-25D2222E3C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D8AFB29-27FA-45BE-8191-25D2222E3C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D8AFB29-27FA-45BE-8191-25D2222E3C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D8AFB29-27FA-45BE-8191-25D2222E3C17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E517E0C-6B2F-4FAB-A8B5-BCC69D3BF0EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E517E0C-6B2F-4FAB-A8B5-BCC69D3BF0EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E517E0C-6B2F-4FAB-A8B5-BCC69D3BF0EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E517E0C-6B2F-4FAB-A8B5-BCC69D3BF0EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CEF6A1B-570F-4C51-83A6-38CBFB99722C}
+	EndGlobalSection
+EndGlobal
